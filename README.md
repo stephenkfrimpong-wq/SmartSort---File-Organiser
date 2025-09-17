@@ -27,10 +27,10 @@ A powerful command-line tool built with vanilla PHP to automatically organise yo
 ## Installation
 
 1. Clone the repository:
-bash
+```bash
 git clone https://github.com/yourusername/smartsort.git
 cd smartsort
-
+````
 2. Make the script executable (Linux/Mac):
-bash
+````bash
 chmod +x smartsort.php

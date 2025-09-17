@@ -1,2 +1,20 @@
-# SmartSort---File-Organiser
-A dependency-free PHP CLI tool that automates file organisation by type, date, or custom JSON rules. Features dry-run previews, recursive sorting, and logging. Demonstrates deep core PHP skills in filesystem operations and building efficient, scalable tools without frameworks. Perfect for automating desktop cleanup.
+# SmartSort - Automated File Organiser
+
+A powerful command-line tool built with vanilla PHP to automatically organise your files by type, date, or custom rules. No frameworks required - just pure, efficient code.
+
+## Features
+
+- **Multi-level Organisation**: Sort by file type and date simultaneously
+- **Custom Rules**: Define your own categorisation rules in `config.json`
+- **Dry-run Mode**: Preview changes before executing
+- **Interactive Mode**: Confirm actions before processing
+- **Recursive Processing**: Handles nested directories automatically
+- **Detailed Logging**: Comprehensive operation logs
+- **No Dependencies**: Pure PHP - runs anywhere
+
+## Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/smartsort.git
+cd smartsort

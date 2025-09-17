@@ -1,0 +1,15 @@
+{
+    "categories": {
+        "images": ["jpg", "jpeg", "png", "gif", "bmp", "svg", "webp"],
+        "documents": ["pdf", "doc", "docx", "txt", "rtf", "xls", "xlsx", "ppt", "pptx"],
+        "archives": ["zip", "rar", "7z", "tar", "gz"],
+        "code": ["php", "js", "html", "css", "py", "java", "cpp", "json", "xml"],
+        "audio": ["mp3", "wav", "flac", "aac", "ogg"],
+        "video": ["mp4", "avi", "mov", "wmv", "flv", "mkv"],
+        "design": ["ai", "psd", "fig", "sketch"],
+        "other": []
+    },
+    "date_organisation": true,
+    "date_format": "Y-m",
+    "log_file": "smartsort.log"
+}

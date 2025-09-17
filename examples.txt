@@ -1,0 +1,21 @@
+Before
+
+downloads/
+├── document.pdf
+├── image.jpg
+├── script.php
+└── archive.zip
+
+
+
+After
+
+downloads/
+├── documents/
+│   └── document.pdf
+├── images/
+│   └── image.jpg
+├── code/
+│   └── script.php
+└── archives/
+    └── archive.zip

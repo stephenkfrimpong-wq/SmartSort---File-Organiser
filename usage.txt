@@ -1,0 +1,11 @@
+# Basic usage
+php smartsort.php --path=/path/to/organise
+
+# Dry-run to preview changes
+php smartsort.php --path=./downloads --dry-run
+
+# Interactive mode
+php smartsort.php --path=./documents --interactive
+
+# Show help
+php smartsort.php --help

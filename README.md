@@ -12,6 +12,18 @@ A powerful command-line tool built with vanilla PHP to automatically organise yo
 - **Detailed Logging**: Comprehensive operation logs
 - **No Dependencies**: Pure PHP - runs anywhere
 
+##Technical Details
+
+- Built with vanilla PHP (no frameworks)
+
+- Uses core PHP filesystem functions
+
+- Command-line interface
+
+- Cross-platform compatibility
+
+- Minimal resource requirements
+
 ## Installation
 
 1. Clone the repository:

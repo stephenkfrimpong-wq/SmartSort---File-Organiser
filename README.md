@@ -28,7 +28,7 @@ A powerful command-line tool built with vanilla PHP to automatically organise yo
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/smartsort.git
+git clone https://github.com/stephenkfrimpong-wq/smartsort.git
 cd smartsort
 ````
 2. Make the script executable (Linux/Mac):
